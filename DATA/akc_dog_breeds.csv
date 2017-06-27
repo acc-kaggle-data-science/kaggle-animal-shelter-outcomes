@@ -1,0 +1,388 @@
+group,type,dog,desc,link
+Best Dogs for Apartments,Characteristic,Bulldog,"Calm, courageous, and friendly; dignified but amusing.",/dog-breeds/bulldog/
+Best Dogs for Apartments,Characteristic,Shih Tzu,"Outgoing, affectionate, playful and charming",/dog-breeds/shih-tzu/
+Best Dogs for Apartments,Characteristic,Cavalier King Charles Spaniel,"Affectionate, graceful, and gentle.",/dog-breeds/cavalier-king-charles-spaniel/
+Best Dogs for Apartments,Characteristic,Pug,"Even-tempered, charming, mischievous and loving.",/dog-breeds/pug/
+Best Dogs for Apartments,Characteristic,Bichon Frise,"Playful, curious, and peppy.",/dog-breeds/bichon-frise/
+Best Dogs for Apartments,Characteristic,French Bulldog,"Playful, smart, adaptable, and completely irresistible.",/dog-breeds/french-bulldog/
+Best Dogs for Apartments,Characteristic,Greyhound,"Independent, gentle, noble, and oh so sweet, but intense when on the run.",/dog-breeds/greyhound/
+Best Dogs for Apartments,Characteristic,Havanese,"Outgoing, funny, & intelligent.",/dog-breeds/havanese/
+Best Dogs for Apartments,Characteristic,Maltese,"Gentle, playful, affectionate; fearless in a charming toy-dog way.",/dog-breeds/maltese/
+Best Dogs for Apartments,Characteristic,Chinese Crested,"Lively, alert, and affectionate.",/dog-breeds/chinese-crested/
+Best Dogs for Kids,Characteristic,Bulldog,"Calm, courageous, and friendly; dignified but amusing.",/dog-breeds/bulldog/
+Best Dogs for Kids,Characteristic,Beagle,"Beagles are loving and lovable, happy, easygoing, and companionable. ",/dog-breeds/beagle/
+Best Dogs for Kids,Characteristic,Newfoundland,"Sweet, patient, devoted; Newfs are famously good companions",/dog-breeds/newfoundland/
+Best Dogs for Kids,Characteristic,Golden Retriever,"Intelligent, friendly, and devoted.",/dog-breeds/golden-retriever/
+Best Dogs for Kids,Characteristic,Labrador Retriever,"Friendly and outgoing, Labs play well with others",/dog-breeds/labrador-retriever/
+Best Dogs for Kids,Characteristic,Soft Coated Wheaten Terrier,"Happy, friendly, and deeply devoted; just stubborn enough to remind you they’re terriers.",/dog-breeds/soft-coated-wheaten-terrier/
+Best Dogs for Kids,Characteristic,Weimaraner,"Friendly, fearless, alert, obedient.",/dog-breeds/weimaraner/
+Best Dogs for Kids,Characteristic,Bull Terrier,"Playful and charming; sometimes mischievous, always loyal.",/dog-breeds/bull-terrier/
+Best Dogs for Kids,Characteristic,Boxer,"Fun-loving, bright, active and loyal.",/dog-breeds/boxer/
+Best Family Dogs,Characteristic,Labrador Retriever,"Friendly and outgoing, Labs play well with others",/dog-breeds/labrador-retriever/
+Best Family Dogs,Characteristic,Bulldog,"Calm, courageous, and friendly; dignified but amusing.",/dog-breeds/bulldog/
+Best Family Dogs,Characteristic,Golden Retriever,"Intelligent, friendly, and devoted.",/dog-breeds/golden-retriever/
+Best Family Dogs,Characteristic,Beagle,"Beagles are loving and lovable, happy, easygoing, and companionable. ",/dog-breeds/beagle/
+Best Family Dogs,Characteristic,Pug,"Even-tempered, charming, mischievous and loving.",/dog-breeds/pug/
+Best Family Dogs,Characteristic,Irish Setter,"Outgoing, sweet-natured, active, and trainable.",/dog-breeds/irish-setter/
+Best Family Dogs,Characteristic,Brussels Griffon,"Alert, curious, and loyal.",/dog-breeds/brussels-griffon/
+Best Family Dogs,Characteristic,Newfoundland,"Sweet, patient, devoted; Newfs are famously good companions",/dog-breeds/newfoundland/
+Best Family Dogs,Characteristic,French Bulldog,"Playful, smart, adaptable, and completely irresistible.",/dog-breeds/french-bulldog/
+Best Family Dogs,Characteristic,Collie,"Graceful, devoted, and proud.",/dog-breeds/collie/
+Best Guard Dogs,Characteristic,Bullmastiff,"Brave, affectionate, and loyal, the Bullmastiff will always have your back.",/dog-breeds/bullmastiff/
+Best Guard Dogs,Characteristic,Doberman Pinscher,"Alert, fearless, loyal, and highly trainable.",/dog-breeds/doberman-pinscher/
+Best Guard Dogs,Characteristic,Giant Schnauzer,"Loyal, alert, trainable, with the stable temperament required in big dogs of great strength.",/dog-breeds/giant-schnauzer/
+Best Guard Dogs,Characteristic,Akita,"Dignified, courageous, and profoundly loyal.",/dog-breeds/akita/
+Best Guard Dogs,Characteristic,German Shepherd Dog,"Smart, confident, courageous, and steady; a true dog lover's dog.",/dog-breeds/german-shepherd-dog/
+Best Guard Dogs,Characteristic,Staffordshire Bull Terrier,"Brave, tenacious, a bit stubborn; but also gentle, playful, and clever.",/dog-breeds/staffordshire-bull-terrier/
+Best Guard Dogs,Characteristic,Rottweiler,Reserved with strangers and affectionate and loyal with his family.,/dog-breeds/rottweiler/
+Best Guard Dogs,Characteristic,Puli,"Loyal, smart, home-loving; strong-willed but trainable.",/dog-breeds/puli/
+Best Guard Dogs,Characteristic,Rhodesian Ridgeback,"Dignified, even tempered; affectionate toward loved ones, reserved with strangers.",/dog-breeds/rhodesian-ridgeback/
+Foundation Stock Service,Group,American Leopard Hound,,/dog-breeds/american-leopard-hound/
+Foundation Stock Service,Group,Appenzeller Sennenhunde,,/dog-breeds/appenzeller-sennenhunde/
+Foundation Stock Service,Group,Azawakh,,/dog-breeds/azawakh/
+Foundation Stock Service,Group,Barbet,"Friendly, joyful and fun loving",/dog-breeds/barbet/
+Foundation Stock Service,Group,Basset Fauve de Bretagne,,/dog-breeds/basset-fauve-de-bretagne/
+Foundation Stock Service,Group,Bavarian Mountain Scent Hound,"quiet, poised, and loyal to their family",/dog-breeds/bavarian-mountain-scent-hound/
+Foundation Stock Service,Group,Belgian Laekenois,,/dog-breeds/belgian-laekenois/
+Foundation Stock Service,Group,Biewer Terrier,,/dog-breeds/biewer-terrier/
+Foundation Stock Service,Group,Bolognese,,/dog-breeds/bolognese/
+Foundation Stock Service,Group,Bracco Italiano,,/dog-breeds/bracco-italiano/
+Foundation Stock Service,Group,Braque du Bourbonnais,,/dog-breeds/braque-du-bourbonnais/
+Foundation Stock Service,Group,Braque Francais Pyrenean,"friendly, sociable, gentle and submissive",/dog-breeds/braque-francais-pyrenean/
+Foundation Stock Service,Group,Broholmer,,/dog-breeds/broholmer/
+Foundation Stock Service,Group,Catahoula Leopard Dog,,/dog-breeds/catahoula-leopard-dog/
+Foundation Stock Service,Group,Caucasian Shepherd Dog,,/dog-breeds/caucasian-shepherd-dog/
+Foundation Stock Service,Group,Central Asian Shepherd Dog,,/dog-breeds/central-asian-shepherd-dog/
+Foundation Stock Service,Group,Czechoslovakian Vlcak,,/dog-breeds/czechoslovakian-vlcak/
+Foundation Stock Service,Group,Danish-Swedish Farmdog,,/dog-breeds/danish-swedish-farmdog/
+Foundation Stock Service,Group,Deutscher Wachtelhund,,/dog-breeds/deutscher-wachtelhund/
+Foundation Stock Service,Group,Dogo Argentino,,/dog-breeds/dogo-argentino/
+Foundation Stock Service,Group,Drentsche Patrijshond,,/dog-breeds/drentsche-patrijshond/
+Foundation Stock Service,Group,Drever,,/dog-breeds/drever/
+Foundation Stock Service,Group,Dutch Shepherd,"lively, athletic, alert and intelligent",/dog-breeds/dutch-shepherd/
+Foundation Stock Service,Group,Estrela Mountain Dog,,/dog-breeds/estrela-mountain-dog/
+Foundation Stock Service,Group,Eurasier,,/dog-breeds/eurasier/
+Foundation Stock Service,Group,French Spaniel,,/dog-breeds/french-spaniel/
+Foundation Stock Service,Group,German Longhaired Pointer,,/dog-breeds/german-longhaired-pointer/
+Foundation Stock Service,Group,German Spitz,,/dog-breeds/german-spitz/
+Foundation Stock Service,Group,Grand Basset Griffon Vendeen,,/dog-breeds/grand-basset-griffon-vendeen/
+Foundation Stock Service,Group,Hamiltonstovare,,/dog-breeds/hamiltonstovare/
+Foundation Stock Service,Group,Hokkaido,,/dog-breeds/hokkaido/
+Foundation Stock Service,Group,Hovawart,,/dog-breeds/hovawart/
+Foundation Stock Service,Group,Jagdterrier,,/dog-breeds/jagdterrier/
+Foundation Stock Service,Group,Jindo,"Independent, Hunter, Discerning Guardian",/dog-breeds/jindo/
+Foundation Stock Service,Group,Kai Ken,,/dog-breeds/kai-ken/
+Foundation Stock Service,Group,Karelian Bear Dog,,/dog-breeds/karelian-bear-dog/
+Foundation Stock Service,Group,Kishu Ken,,/dog-breeds/kishu-ken/
+Foundation Stock Service,Group,Kromfohrlander,,/dog-breeds/kromfohrlander/
+Foundation Stock Service,Group,Lancashire Heeler,,/dog-breeds/lancashire-heeler/
+Foundation Stock Service,Group,Lapponian Herder,independent and fun ,/dog-breeds/lapponian-herder/
+Foundation Stock Service,Group,Mountain Cur,"Strong-willed, reserved with strangers",/dog-breeds/mountain-cur/
+Foundation Stock Service,Group,Mudi,"active, intelligent, biddable working breed",/dog-breeds/mudi/
+Foundation Stock Service,Group,Nederlandse Kooikerhondje,,/dog-breeds/nederlandse-kooikerhondje/
+Foundation Stock Service,Group,Norrbottenspets,,/dog-breeds/norrbottenspets/
+Foundation Stock Service,Group,Perro de Presa Canario,,/dog-breeds/perro-de-presa-canario/
+Foundation Stock Service,Group,Peruvian Inca Orchid,"Lively, alert, playful; charming and well mannered around the house.",/dog-breeds/peruvian-inca-orchid/
+Foundation Stock Service,Group,Porcelaine,"Elegant, energetic and fierce hunter",/dog-breeds/porcelaine/
+Foundation Stock Service,Group,Portuguese Podengo,,/dog-breeds/portuguese-podengo/
+Foundation Stock Service,Group,Portuguese Pointer,,/dog-breeds/portuguese-pointer/
+Foundation Stock Service,Group,Portuguese Sheepdog,,/dog-breeds/portuguese-sheepdog/
+Foundation Stock Service,Group,Pudelpointer,,/dog-breeds/pudelpointer/
+Foundation Stock Service,Group,Pyrenean Mastiff,"Calm, patient, smart; strong-willed yet affectionate.",/dog-breeds/pyrenean-mastiff/
+Foundation Stock Service,Group,Rafeiro do Alentejo,,/dog-breeds/rafeiro-do-alentejo/
+Foundation Stock Service,Group,Russian Toy,,/dog-breeds/russian-toy/
+Foundation Stock Service,Group,Russian Tsvetnaya Bolonka,,/dog-breeds/russian-tsvetnaya-bolonka/
+Foundation Stock Service,Group,Schapendoes,,/dog-breeds/schapendoes/
+Foundation Stock Service,Group,Shikoku,,/dog-breeds/shikoku/
+Foundation Stock Service,Group,Slovensky Cuvac,,/dog-breeds/slovensky-cuvac/
+Foundation Stock Service,Group,Slovensky Kopov,,/dog-breeds/slovensky-kopov/
+Foundation Stock Service,Group,Small Munsterlander Pointer,,/dog-breeds/small-munsterlander-pointer/
+Foundation Stock Service,Group,Spanish Mastiff,,/dog-breeds/spanish-mastiff/
+Foundation Stock Service,Group,Stabyhoun,,/dog-breeds/stabyhoun/
+Foundation Stock Service,Group,Swedish Lapphund,,/dog-breeds/swedish-lapphund/
+Foundation Stock Service,Group,Taiwan Dog,,/dog-breeds/taiwan-dog/
+Foundation Stock Service,Group,Teddy Roosevelt Terrier,"Friendly, Lovable, inquisitive, fearlessly game for just about anything.",/dog-breeds/teddy-roosevelt-terrier/
+Foundation Stock Service,Group,Thai Ridgeback,,/dog-breeds/thai-ridgeback/
+Foundation Stock Service,Group,Tornjak,,/dog-breeds/tornjak/
+Foundation Stock Service,Group,Tosa,,/dog-breeds/tosa/
+Foundation Stock Service,Group,Transylvanian Hound,,/dog-breeds/transylvanian-hound/
+Foundation Stock Service,Group,Treeing Tennessee Brindle,,/dog-breeds/treeing-tennessee-brindle/
+Foundation Stock Service,Group,Working Kelpie,"Remarkably smart workaholics,",/dog-breeds/working-kelpie/
+Hairless Dog Breeds,Characteristic,Chinese Crested,"Lively, alert, and affectionate.",/dog-breeds/chinese-crested/
+Hairless Dog Breeds,Characteristic,Peruvian Inca Orchid,"Lively, alert, playful; charming and well mannered around the house.",/dog-breeds/peruvian-inca-orchid/
+Hairless Dog Breeds,Characteristic,American Hairless Terrier,"Friendly, lovable, inquisitive; fearlessly game for just about anything.",/dog-breeds/american-hairless-terrier/
+Hairless Dog Breeds,Characteristic,Xoloitzcuintli,"Loyal, alert, calm, trainable; like any good watchdog, they're wary of strangers.",/dog-breeds/xoloitzcuintli/
+Herding Group,Group,Australian Cattle Dog,"Alert, curious, and pleasant.",/dog-breeds/australian-cattle-dog/
+Herding Group,Group,Australian Shepherd,"Smart, work-oriented, exuberant—did we mention smart?",/dog-breeds/australian-shepherd/
+Herding Group,Group,Bearded Collie,"Bouncy, charismatic, friendly; smart, but also stubborn and independent.",/dog-breeds/bearded-collie/
+Herding Group,Group,Beauceron,"Smart, obedient, gentle; reserved with strangers, loving and eager to please with preferred humans.",/dog-breeds/beauceron/
+Herding Group,Group,Belgian Malinois,"Smart, confident, hardworking, and steadfastly loyal.",/dog-breeds/belgian-malinois/
+Herding Group,Group,Belgian Sheepdog,"Serious-minded, watchful, and very bright and trainable",/dog-breeds/belgian-sheepdog/
+Herding Group,Group,Belgian Tervuren,"Smart, self-assured, very trainable; affectionate and possessive with loved ones.",/dog-breeds/belgian-tervuren/
+Herding Group,Group,Bergamasco,,/dog-breeds/bergamasco/
+Herding Group,Group,Berger Picard,,/dog-breeds/berger-picard/
+Herding Group,Group,Border Collie,Remarkably smart workaholics; not averse to a good cuddle.,/dog-breeds/border-collie/
+Herding Group,Group,Bouvier des Flandres,"Strong-willed, even-tempered, courageous; affectionate with family, intimidating to intruders.",/dog-breeds/bouvier-des-flandres/
+Herding Group,Group,Briard,"A whole lot of dog: smart, confident, faithful, with plenty of joie de vivre.",/dog-breeds/briard/
+Herding Group,Group,Canaan Dog,"Alert, vigilant, territorial; docile with family, aloof with strangers.",/dog-breeds/canaan-dog/
+Herding Group,Group,Cardigan Welsh Corgi,"Loyal, affectionate, and smart; even-tempered, never shy.",/dog-breeds/cardigan-welsh-corgi/
+Herding Group,Group,Collie,"Graceful, devoted, and proud.",/dog-breeds/collie/
+Herding Group,Group,Entlebucher Mountain Dog,"Enthusiastic, loyal, smart; confident but not aggressive.",/dog-breeds/entlebucher-mountain-dog/
+Herding Group,Group,Finnish Lapphund,"Reserved with strangers, but usually calm and friendly; submissive at home, courageous at work.",/dog-breeds/finnish-lapphund/
+Herding Group,Group,German Shepherd Dog,"Smart, confident, courageous, and steady; a true dog lover's dog.",/dog-breeds/german-shepherd-dog/
+Herding Group,Group,Icelandic Sheepdog,"Confident, cheerful, sociable; the expression “man’s best friend” was coined for dogs like this.",/dog-breeds/icelandic-sheepdog/
+Herding Group,Group,Miniature American Shepherd,"Good-natured, Devoted, Intelligent",/dog-breeds/miniature-american-shepherd/
+Herding Group,Group,Norwegian Buhund,"Smart, perceptive, confident, and a total sweetheart.",/dog-breeds/norwegian-buhund/
+Herding Group,Group,Old English Sheepdog,"Adaptable, smart, gentle; Old English Sheepdogs are famous for their sweet, agreeable nature.",/dog-breeds/old-english-sheepdog/
+Herding Group,Group,Pembroke Welsh Corgi,"Smart and alert, affectionate but not pushy, bold but kindly.",/dog-breeds/pembroke-welsh-corgi/
+Herding Group,Group,Polish Lowland Sheepdog,"Lively, clever, confident; very loyal, but an independent worker.",/dog-breeds/polish-lowland-sheepdog/
+Herding Group,Group,Puli,"Loyal, smart, home-loving; strong-willed but trainable.",/dog-breeds/puli/
+Herding Group,Group,Pumi,,/dog-breeds/pumi/
+Herding Group,Group,Pyrenean Shepherd,"Enthusiastic, mischievous, and whip-smart; playful with family, wary of strangers.",/dog-breeds/pyrenean-shepherd/
+Herding Group,Group,Shetland Sheepdog,"Bright, playful, and energetic",/dog-breeds/shetland-sheepdog/
+Herding Group,Group,Spanish Water Dog,"Faithful, hardworking, lively; affectionate with family, and a vigilant watchdog",/dog-breeds/spanish-water-dog/
+Herding Group,Group,Swedish Vallhund,"Sociable, cheerful, alert, and blessed with classic herding-dog intelligence.",/dog-breeds/swedish-vallhund/
+Hound,Group,Afghan Hound,"A breed of charming contradictions: independent and aloof, but sweet and profoundly loyal.",/dog-breeds/afghan-hound/
+Hound,Group,American English Coonhound,"Sweet, Melow, Sociable",/dog-breeds/american-english-coonhound/
+Hound,Group,American Foxhound,"Sweet-tempered and easygoing, but also stubborn and independent",/dog-breeds/american-foxhound/
+Hound,Group,Basenji,"An intelligent, independent, but affectionate and alert breed. Can be aloof with strangers.",/dog-breeds/basenji/
+Hound,Group,Basset Hound,"Easygoing, laid-back, and even a bit lazy, Bassets are great family pets. ",/dog-breeds/basset-hound/
+Hound,Group,Beagle,"Beagles are loving and lovable, happy, easygoing, and companionable. ",/dog-breeds/beagle/
+Hound,Group,Black and Tan Coonhound,"Easygoing, friendly, bright; mellow by the fireside, rugged and brave on the trail.",/dog-breeds/black-and-tan-coonhound/
+Hound,Group,Bloodhound,"Inquisitive, independent, friendly, affectionate with family, can be reserved with strangers",/dog-breeds/bloodhound/
+Hound,Group,Bluetick Coonhound,"A smart and devoted charmer at home; a fearless, tenacious pursuer on the trail.",/dog-breeds/bluetick-coonhound/
+Hound,Group,Borzoi,"Loyal, affectionate, regally dignified; charming but independent-minded.",/dog-breeds/borzoi/
+Hound,Group,Cirneco dell’Etna,,/dog-breeds/cirneco-delletna/
+Hound,Group,Dachshund,Go look up the word “spunky.” We’ll wait. Did you see a photo of a Dachsie? We thought so.,/dog-breeds/dachshund/
+Hound,Group,English Foxhound,"The prototypical pack hound: gentle, affectionate, and sociable.",/dog-breeds/english-foxhound/
+Hound,Group,Greyhound,"Independent, gentle, noble, and oh so sweet, but intense when on the run.",/dog-breeds/greyhound/
+Hound,Group,Harrier,"Outgoing and friendly; true pack hounds, they generally get on well with other dogs.",/dog-breeds/harrier/
+Hound,Group,Ibizan Hound,"Even-tempered and polite; a bit aloof, but a sweet-natured, family-oriented housemate.",/dog-breeds/ibizan-hound/
+Hound,Group,Irish Wolfhound,"Calm, dignified, kindly; courageous but not aggressive",/dog-breeds/irish-wolfhound/
+Hound,Group,Norwegian Elkhound,"Confident, dependable; dignified but friendly.",/dog-breeds/norwegian-elkhound/
+Hound,Group,Otterhound,"A big-personality dog: boisterous, affectionate, cheerful.",/dog-breeds/otterhound/
+Hound,Group,Petit Basset Griffon Vendeen,"Alert, vivacious, and happy-happy-happy!",/dog-breeds/petit-basset-griffon-vendeen/
+Hound,Group,Pharaoh Hound,"Smart and alert; noble, but friendly and affectionate.",/dog-breeds/pharaoh-hound/
+Hound,Group,Plott,"Sweetly gentle with people, but fearless, implacable, and bold at work.",/dog-breeds/plott/
+Hound,Group,Portuguese Podengo Pequeno,"Lively, alert, playful; charming and well mannered around the house.",/dog-breeds/portuguese-podengo-pequeno/
+Hound,Group,Redbone Coonhound,"Even-tempered, amiable, and kindly at home, but a tiger on the trail.",/dog-breeds/redbone-coonhound/
+Hound,Group,Rhodesian Ridgeback,"Dignified, even tempered; affectionate toward loved ones, reserved with strangers.",/dog-breeds/rhodesian-ridgeback/
+Hound,Group,Saluki,"Gentle, dignified, loyal but independent-minded.",/dog-breeds/saluki/
+Hound,Group,Scottish Deerhound,"Dignified, gentle, polite; quietly intelligent and perceptive.",/dog-breeds/scottish-deerhound/
+Hound,Group,Sloughi,"Noble and somewhat aloof, however are faithful to owners",/dog-breeds/sloughi/
+Hound,Group,Treeing Walker Coonhound,"Smart, brave, and often described as sensible and courteous.",/dog-breeds/treeing-walker-coonhound/
+Hound,Group,Whippet,"Calm, affectionate, and playful.",/dog-breeds/whippet/
+Hypoallergenic Dogs,Characteristic,Bedlington Terrier,"Frollicking, charming, and full of fun; a loyal member of the family.",/dog-breeds/bedlington-terrier/
+Hypoallergenic Dogs,Characteristic,Bichon Frise,"Playful, curious, and peppy.",/dog-breeds/bichon-frise/
+Hypoallergenic Dogs,Characteristic,Chinese Crested,"Lively, alert, and affectionate.",/dog-breeds/chinese-crested/
+Hypoallergenic Dogs,Characteristic,Coton de Tulear,"Bright, happy-go-lucky, endlessly charming; born to love and to be loved.",/dog-breeds/coton-de-tulear/
+Hypoallergenic Dogs,Characteristic,Irish Water Spaniel,"Alert and inquisitive; hardworking and brave in the field, playful and affectionate at home.",/dog-breeds/irish-water-spaniel/
+Hypoallergenic Dogs,Characteristic,Kerry Blue Terrier,"Smart and alert; people oriented, with a dash of Irish humor in his heart",/dog-breeds/kerry-blue-terrier/
+Hypoallergenic Dogs,Characteristic,Maltese,"Gentle, playful, affectionate; fearless in a charming toy-dog way.",/dog-breeds/maltese/
+Hypoallergenic Dogs,Characteristic,Poodle,"Proud, active and very smart..",/dog-breeds/poodle/
+Hypoallergenic Dogs,Characteristic,Portuguese Water Dog,"The PWD is an “A” student: Affectionate, athletic, and adventurous.",/dog-breeds/portuguese-water-dog/
+Hypoallergenic Dogs,Characteristic,Standard Schnauzer,"Smart, fearless, sometimes willful; spirited, but ever reliable.",/dog-breeds/standard-schnauzer/
+Hypoallergenic Dogs,Characteristic,Giant Schnauzer,"Loyal, alert, trainable, with the stable temperament required in big dogs of great strength.",/dog-breeds/giant-schnauzer/
+Hypoallergenic Dogs,Characteristic,Soft Coated Wheaten Terrier,"Happy, friendly, and deeply devoted; just stubborn enough to remind you they’re terriers.",/dog-breeds/soft-coated-wheaten-terrier/
+Hypoallergenic Dogs,Characteristic,Xoloitzcuintli,"Loyal, alert, calm, trainable; like any good watchdog, they're wary of strangers.",/dog-breeds/xoloitzcuintli/
+Hypoallergenic Dogs,Characteristic,American Hairless Terrier,"Friendly, lovable, inquisitive; fearlessly game for just about anything.",/dog-breeds/american-hairless-terrier/
+Hypoallergenic Dogs,Characteristic,Lagotto Romagnolo,,/dog-breeds/lagotto-romagnolo/
+Hypoallergenic Dogs,Characteristic,Afghan Hound,"A breed of charming contradictions: independent and aloof, but sweet and profoundly loyal.",/dog-breeds/afghan-hound/
+Hypoallergenic Dogs,Characteristic,Peruvian Inca Orchid,"Lively, alert, playful; charming and well mannered around the house.",/dog-breeds/peruvian-inca-orchid/
+Largest Dog Breeds,Size,Great Dane,"Friendly, patient, & dependable.",/dog-breeds/great-dane/
+Largest Dog Breeds,Size,Mastiff,"Courageous and dignified, but good-natured and docile.",/dog-breeds/mastiff/
+Largest Dog Breeds,Size,Neapolitan Mastiff,"Watchful and dignified; sweet, steady, and loyal with loved ones, calm but wary with strangers.",/dog-breeds/neapolitan-mastiff/
+Largest Dog Breeds,Size,Bullmastiff,"Brave, affectionate, and loyal, the Bullmastiff will always have your back.",/dog-breeds/bullmastiff/
+Largest Dog Breeds,Size,Newfoundland,"Sweet, patient, devoted; Newfs are famously good companions",/dog-breeds/newfoundland/
+Largest Dog Breeds,Size,Dogue de Bordeaux,"Loyal, affectionate, and protective; courageous but not aggressive.",/dog-breeds/dogue-de-bordeaux/
+Largest Dog Breeds,Size,Cane Corso,"Smart, trainable, and noble of bearing; assertive and confident, Corsi are peerless protectors.",/dog-breeds/cane-corso/
+Largest Dog Breeds,Size,Great Pyrenees,"Calm, patient, smart; strong-willed yet affectionate.",/dog-breeds/great-pyrenees/
+Largest Dog Breeds,Size,Bernese Mountain Dog,Good-natured and calm.,/dog-breeds/bernese-mountain-dog/
+Largest Dog Breeds,Size,Tibetan Mastiff,"Mellow and calm around the house; devoted to family, reserved and territorial with strangers.",/dog-breeds/tibetan-mastiff/
+Largest Dog Breeds,Size,Black Russian Terrier,"Smart, confident, courageous; protective of loved ones, aloof with strangers.",/dog-breeds/black-russian-terrier/
+Largest Dog Breeds,Size,Leonberger,"Bright, patient, loving, and family oriented",/dog-breeds/leonberger/
+Largest Dog Breeds,Size,Irish Wolfhound,"Calm, dignified, kindly; courageous but not aggressive",/dog-breeds/irish-wolfhound/
+Largest Dog Breeds,Size,Scottish Deerhound,"Dignified, gentle, polite; quietly intelligent and perceptive.",/dog-breeds/scottish-deerhound/
+Medium Sized Dogs,Size,Brittany,"Bright, upbeat, fun-loving at home; a tireless, enthusiastic worker afield.",/dog-breeds/brittany/
+Medium Sized Dogs,Size,Bulldog,"Calm, courageous, and friendly; dignified but amusing.",/dog-breeds/bulldog/
+Medium Sized Dogs,Size,Cocker Spaniel,"Happy, smart, gentle.",/dog-breeds/cocker-spaniel/
+Medium Sized Dogs,Size,English Springer Spaniel,"Friendly, playful, obedient at home; hardworking and steady in the field.",/dog-breeds/english-springer-spaniel/
+Medium Sized Dogs,Size,Pembroke Welsh Corgi,"Smart and alert, affectionate but not pushy, bold but kindly.",/dog-breeds/pembroke-welsh-corgi/
+Medium Sized Dogs,Size,Shetland Sheepdog,"Bright, playful, and energetic",/dog-breeds/shetland-sheepdog/
+Medium Sized Dogs,Size,Whippet,"Calm, affectionate, and playful.",/dog-breeds/whippet/
+Miscellaneous Class,Group,Azawakh,,/dog-breeds/azawakh/
+Miscellaneous Class,Group,Barbet,"Friendly, joyful and fun loving",/dog-breeds/barbet/
+Miscellaneous Class,Group,Belgian Laekenois,,/dog-breeds/belgian-laekenois/
+Miscellaneous Class,Group,Dogo Argentino,,/dog-breeds/dogo-argentino/
+Miscellaneous Class,Group,Dutch Shepherd,"lively, athletic, alert and intelligent",/dog-breeds/dutch-shepherd/
+Miscellaneous Class,Group,Grand Basset Griffon Vendeen,,/dog-breeds/grand-basset-griffon-vendeen/
+Miscellaneous Class,Group,Nederlandse Kooikerhondje,,/dog-breeds/nederlandse-kooikerhondje/
+Miscellaneous Class,Group,Norrbottenspets,,/dog-breeds/norrbottenspets/
+Miscellaneous Class,Group,Peruvian Inca Orchid,"Lively, alert, playful; charming and well mannered around the house.",/dog-breeds/peruvian-inca-orchid/
+Miscellaneous Class,Group,Portuguese Podengo,,/dog-breeds/portuguese-podengo/
+Non-Sporting,Group,American Eskimo Dog,"Playful, perky, very smart; an excellent trick dog.",/dog-breeds/american-eskimo-dog/
+Non-Sporting,Group,Bichon Frise,"Playful, curious, and peppy.",/dog-breeds/bichon-frise/
+Non-Sporting,Group,Boston Terrier,"Friendly, bright, amusing, and adaptable.",/dog-breeds/boston-terrier/
+Non-Sporting,Group,Bulldog,"Calm, courageous, and friendly; dignified but amusing.",/dog-breeds/bulldog/
+Non-Sporting,Group,Chinese Shar-Pei,"Steadfastly devoted to loved ones, but standoffish and lordly toward strangers.",/dog-breeds/chinese-shar-pei/
+Non-Sporting,Group,Chow Chow,"Serious-minded, dignified, bright, and aloof.",/dog-breeds/chow-chow/
+Non-Sporting,Group,Coton de Tulear,"Bright, happy-go-lucky, endlessly charming; born to love and to be loved.",/dog-breeds/coton-de-tulear/
+Non-Sporting,Group,Dalmatian,A well-bred Dal is stable and outgoing; dignified but never shy.,/dog-breeds/dalmatian/
+Non-Sporting,Group,Finnish Spitz,"Eager, courageous, friendly, and faithful.",/dog-breeds/finnish-spitz/
+Non-Sporting,Group,French Bulldog,"Playful, smart, adaptable, and completely irresistible.",/dog-breeds/french-bulldog/
+Non-Sporting,Group,Keeshond,"Outgoing, lively, friendly to all; a lover, not a fighter",/dog-breeds/keeshond/
+Non-Sporting,Group,Lhasa Apso,"Smart, confident, complex; a family comedian, but regally aloof with strangers",/dog-breeds/lhasa-apso/
+Non-Sporting,Group,Lowchen,"Affectionate, outgoing, strong willed, and brave as a lion.",/dog-breeds/lowchen/
+Non-Sporting,Group,Norwegian Lundehund,"Loving and loyal, also brave, tenacious, and a bit stubborn.",/dog-breeds/norwegian-lundehund/
+Non-Sporting,Group,Poodle,"Proud, active and very smart..",/dog-breeds/poodle/
+Non-Sporting,Group,Schipperke,"Alert, curious, confident; intense, but with a dash of mischief and impudence",/dog-breeds/schipperke/
+Non-Sporting,Group,Shiba Inu,"Alert, active, and attentive",/dog-breeds/shiba-inu/
+Non-Sporting,Group,Tibetan Spaniel,"Self-confident, bright, loving, and playful.",/dog-breeds/tibetan-spaniel/
+Non-Sporting,Group,Tibetan Terrier,"Affectionate, sensitive, clever, and vocal; TTs are like little people in dog suits.",/dog-breeds/tibetan-terrier/
+Non-Sporting,Group,Xoloitzcuintli,"Loyal, alert, calm, trainable; like any good watchdog, they're wary of strangers.",/dog-breeds/xoloitzcuintli/
+Smallest Dog Breeds,Size,Brussels Griffon,"Alert, curious, and loyal.",/dog-breeds/brussels-griffon/
+Smallest Dog Breeds,Size,Cavalier King Charles Spaniel,"Affectionate, graceful, and gentle.",/dog-breeds/cavalier-king-charles-spaniel/
+Smallest Dog Breeds,Size,Chihuahua,"Graceful, charming, and sassy.",/dog-breeds/chihuahua/
+Smallest Dog Breeds,Size,Chinese Crested,"Lively, alert, and affectionate.",/dog-breeds/chinese-crested/
+Smallest Dog Breeds,Size,Dachshund,Go look up the word “spunky.” We’ll wait. Did you see a photo of a Dachsie? We thought so.,/dog-breeds/dachshund/
+Smallest Dog Breeds,Size,English Toy Spaniel,"A true spaniel—affectionate, alert, and merry.",/dog-breeds/english-toy-spaniel/
+Smallest Dog Breeds,Size,Havanese,"Outgoing, funny, & intelligent.",/dog-breeds/havanese/
+Smallest Dog Breeds,Size,Italian Greyhound,"Sensitive and alert, playful, highly affectionate",/dog-breeds/italian-greyhound/
+Smallest Dog Breeds,Size,Japanese Chin,"A true aristocrat: charming and loving with those they favor, nobly reserved with strangers",/dog-breeds/japanese-chin/
+Smallest Dog Breeds,Size,Maltese,"Gentle, playful, affectionate; fearless in a charming toy-dog way.",/dog-breeds/maltese/
+Smallest Dog Breeds,Size,Miniature Pinscher,"Proud, fearless, and fun-loving, Min Pins are a true “personality breed.""",/dog-breeds/miniature-pinscher/
+Smallest Dog Breeds,Size,Norfolk Terrier,"Alert, fearless, fun-loving, and more sociable than the usual terrier.",/dog-breeds/norfolk-terrier/
+Smallest Dog Breeds,Size,Norwich Terrier,"Alert, curious, affectionate, gregarious, loyal ",/dog-breeds/norwich-terrier/
+Smallest Dog Breeds,Size,Papillon,"Happy, alert, friendly.",/dog-breeds/papillon/
+Smallest Dog Breeds,Size,Pekingese,"Affectionate, loyal, regal in manner.",/dog-breeds/pekingese/
+Smallest Dog Breeds,Size,Pomeranian,"Lively, bold, and inquisitive—a prototypical ""personality breed"".",/dog-breeds/pomeranian/
+Smallest Dog Breeds,Size,Pug,"Even-tempered, charming, mischievous and loving.",/dog-breeds/pug/
+Smallest Dog Breeds,Size,Schipperke,"Alert, curious, confident; intense, but with a dash of mischief and impudence",/dog-breeds/schipperke/
+Smallest Dog Breeds,Size,Shih Tzu,"Outgoing, affectionate, playful and charming",/dog-breeds/shih-tzu/
+Smallest Dog Breeds,Size,Silky Terrier,"Friendly, vivacious, cheeky; in all ways a true terrier.",/dog-breeds/silky-terrier/
+Smallest Dog Breeds,Size,Toy Fox Terrier,"Toy Fox Terriers are outgoing and friendly, yet fiercely loyal to their families.",/dog-breeds/toy-fox-terrier/
+Smallest Dog Breeds,Size,Manchester Terrier,"Spirited, bright, keenly observant; dead loyal, in an independent terrier way.",/dog-breeds/manchester-terrier/
+Smallest Dog Breeds,Size,Poodle,"Proud, active and very smart..",/dog-breeds/poodle/
+Smallest Dog Breeds,Size,Yorkshire Terrier,"Sprightly, tomboyish, and affectionate",/dog-breeds/yorkshire-terrier/
+Smartest Dogs,Characteristic,Border Collie,Remarkably smart workaholics; not averse to a good cuddle.,/dog-breeds/border-collie/
+Smartest Dogs,Characteristic,Poodle,"Proud, active and very smart..",/dog-breeds/poodle/
+Smartest Dogs,Characteristic,German Shepherd Dog,"Smart, confident, courageous, and steady; a true dog lover's dog.",/dog-breeds/german-shepherd-dog/
+Smartest Dogs,Characteristic,Golden Retriever,"Intelligent, friendly, and devoted.",/dog-breeds/golden-retriever/
+Smartest Dogs,Characteristic,Doberman Pinscher,"Alert, fearless, loyal, and highly trainable.",/dog-breeds/doberman-pinscher/
+Smartest Dogs,Characteristic,Shetland Sheepdog,"Bright, playful, and energetic",/dog-breeds/shetland-sheepdog/
+Smartest Dogs,Characteristic,Labrador Retriever,"Friendly and outgoing, Labs play well with others",/dog-breeds/labrador-retriever/
+Smartest Dogs,Characteristic,Papillon,"Happy, alert, friendly.",/dog-breeds/papillon/
+Smartest Dogs,Characteristic,Bloodhound,"Inquisitive, independent, friendly, affectionate with family, can be reserved with strangers",/dog-breeds/bloodhound/
+Smartest Dogs,Characteristic,Rottweiler,Reserved with strangers and affectionate and loyal with his family.,/dog-breeds/rottweiler/
+Sporting,Group,American Water Spaniel,"Happy, eager, and charming; aloof with strangers, and a little stubborn.",/dog-breeds/american-water-spaniel/
+Sporting,Group,Boykin Spaniel,"A classic spaniel: friendly, eager, trainable, and lovable.",/dog-breeds/boykin-spaniel/
+Sporting,Group,Brittany,"Bright, upbeat, fun-loving at home; a tireless, enthusiastic worker afield.",/dog-breeds/brittany/
+Sporting,Group,Chesapeake Bay Retriever,"Bright, sensitive, perceptive; affectionate and family-oriented.",/dog-breeds/chesapeake-bay-retriever/
+Sporting,Group,Clumber Spaniel,"Mellow, gentlemanly, amiable; dignified but always amusing.",/dog-breeds/clumber-spaniel/
+Sporting,Group,Cocker Spaniel,"Happy, smart, gentle.",/dog-breeds/cocker-spaniel/
+Sporting,Group,Curly-Coated Retriever,"Confident, proud, wickedly smart; a thinking person’s retriever.",/dog-breeds/curly-coated-retriever/
+Sporting,Group,English Cocker Spaniel,"Merry and responsive, alive with energy.",/dog-breeds/english-cocker-spaniel/
+Sporting,Group,English Setter,"Friendly, merry, and mellow; called the “gentleman of the dog world.”",/dog-breeds/english-setter/
+Sporting,Group,English Springer Spaniel,"Friendly, playful, obedient at home; hardworking and steady in the field.",/dog-breeds/english-springer-spaniel/
+Sporting,Group,Field Spaniel,"Sweet, sensitive, fun-loving, and smart; a real people-pleaser.",/dog-breeds/field-spaniel/
+Sporting,Group,Flat-Coated Retriever,"Happy, confident, intelligent, and forever young.",/dog-breeds/flat-coated-retriever/
+Sporting,Group,German Shorthaired Pointer,"Friendly, smart, willing to please.",/dog-breeds/german-shorthaired-pointer/
+Sporting,Group,German Wirehaired Pointer,"Affectionate, eager, enthusiastic; aloof but not unfriendly with strangers.",/dog-breeds/german-wirehaired-pointer/
+Sporting,Group,Golden Retriever,"Intelligent, friendly, and devoted.",/dog-breeds/golden-retriever/
+Sporting,Group,Gordon Setter,"Bold, confident, and resolute afield; sweetly affectionate by the fireside.",/dog-breeds/gordon-setter/
+Sporting,Group,Irish Red and White Setter,"Fun-loving, friendly, high-spirited; a real handful if bored or neglected.",/dog-breeds/irish-red-and-white-setter/
+Sporting,Group,Irish Setter,"Outgoing, sweet-natured, active, and trainable.",/dog-breeds/irish-setter/
+Sporting,Group,Irish Water Spaniel,"Alert and inquisitive; hardworking and brave in the field, playful and affectionate at home.",/dog-breeds/irish-water-spaniel/
+Sporting,Group,Labrador Retriever,"Friendly and outgoing, Labs play well with others",/dog-breeds/labrador-retriever/
+Sporting,Group,Lagotto Romagnolo,,/dog-breeds/lagotto-romagnolo/
+Sporting,Group,Nova Scotia Duck Tolling Retriever,"Smart, outgoing, busy; as affectionate and eager to please as any good retriever.",/dog-breeds/nova-scotia-duck-tolling-retriever/
+Sporting,Group,Pointer,"Even-tempered, alert, hardworking, and loyal; a peerless hunting partner.",/dog-breeds/pointer/
+Sporting,Group,Spinone Italiano,"Sociable, docile, patient; occasionally stubborn but always a character.",/dog-breeds/spinone-italiano/
+Sporting,Group,Sussex Spaniel,"Merry and friendly, in the classic spaniel manner.",/dog-breeds/sussex-spaniel/
+Sporting,Group,Vizsla,"Gentle, affectionate, energetic and eager.",/dog-breeds/vizsla/
+Sporting,Group,Weimaraner,"Friendly, fearless, alert, obedient.",/dog-breeds/weimaraner/
+Sporting,Group,Welsh Springer Spaniel,"Happy, upbeat, family oriented; reserved but not shy with strangers.",/dog-breeds/welsh-springer-spaniel/
+Sporting,Group,Wirehaired Pointing Griffon,"Outgoing, eager, quick-minded; trustworthy in the field and around the house.",/dog-breeds/wirehaired-pointing-griffon/
+Sporting,Group,Wirehaired Vizsla,Calm and gentle around the house; an exuberant hunter on land or lake.,/dog-breeds/wirehaired-vizsla/
+Terrier,Group,Airedale Terrier,"Clever, confident, proud; friendly but courageous.",/dog-breeds/airedale-terrier/
+Terrier,Group,American Hairless Terrier,"Friendly, lovable, inquisitive; fearlessly game for just about anything.",/dog-breeds/american-hairless-terrier/
+Terrier,Group,American Staffordshire Terrier,"Smart, confident, good-natured companions.",/dog-breeds/american-staffordshire-terrier/
+Terrier,Group,Australian Terrier,"Plucky, spirited, and smart.",/dog-breeds/australian-terrier/
+Terrier,Group,Bedlington Terrier,"Frollicking, charming, and full of fun; a loyal member of the family.",/dog-breeds/bedlington-terrier/
+Terrier,Group,Border Terrier,"Plucky, happy, affectionate.",/dog-breeds/border-terrier/
+Terrier,Group,Bull Terrier,"Playful and charming; sometimes mischievous, always loyal.",/dog-breeds/bull-terrier/
+Terrier,Group,Cairn Terrier,"Cheerful, alert, busy and independent-minded.",/dog-breeds/cairn-terrier/
+Terrier,Group,Cesky Terrier,"Feisty and tenacious at work, but a bit more laid back and trainable than the usual terrier.",/dog-breeds/cesky-terrier/
+Terrier,Group,Dandie Dinmont Terrier,"Independent, proud, smart; affectionate at home, bold and tenacious in the field.",/dog-breeds/dandie-dinmont-terrier/
+Terrier,Group,Glen of Imaal Terrier,"Gentler, less excitable than most terriers, but still bold and spirited.",/dog-breeds/glen-of-imaal-terrier/
+Terrier,Group,Irish Terrier,"Bold, dashing, even reckless; stouthearted at work, tenderhearted at home.",/dog-breeds/irish-terrier/
+Terrier,Group,Kerry Blue Terrier,"Smart and alert; people oriented, with a dash of Irish humor in his heart",/dog-breeds/kerry-blue-terrier/
+Terrier,Group,Lakeland Terrier,"Brave, bright, confident; affectionate with family, especially kids",/dog-breeds/lakeland-terrier/
+Terrier,Group,Manchester Terrier,"Spirited, bright, keenly observant; dead loyal, in an independent terrier way.",/dog-breeds/manchester-terrier/
+Terrier,Group,Miniature Bull Terrier,"Upbeat, mischievous, comical, with terrier fire and fearlessness.",/dog-breeds/miniature-bull-terrier/
+Terrier,Group,Miniature Schnauzer,"Friendly, smart, obedient.",/dog-breeds/miniature-schnauzer/
+Terrier,Group,Norfolk Terrier,"Alert, fearless, fun-loving, and more sociable than the usual terrier.",/dog-breeds/norfolk-terrier/
+Terrier,Group,Norwich Terrier,"Alert, curious, affectionate, gregarious, loyal ",/dog-breeds/norwich-terrier/
+Terrier,Group,Parson Russell Terrier,"Bold, friendly, athletic, and clever.",/dog-breeds/parson-russell-terrier/
+Terrier,Group,Rat Terrier,"Friendly, lovable, inquisitive; fearlessly game for just about anything.",/dog-breeds/rat-terrier/
+Terrier,Group,Russell Terrier,"Alert, lively, inquisitive, and friendly.",/dog-breeds/russell-terrier/
+Terrier,Group,Scottish Terrier,"Independent, confident, and never shy; spirited but dignified",/dog-breeds/scottish-terrier/
+Terrier,Group,Sealyham Terrier,Alert and outgoing; stubbornness is tempered by a sly sense of humor,/dog-breeds/sealyham-terrier/
+Terrier,Group,Skye Terrier,"Plucky but dignified, calm but sometimes stubborn; famously loyal and devoted.",/dog-breeds/skye-terrier/
+Terrier,Group,Smooth Fox Terrier,Friendly and family oriented; bright enough to have a mind of their own,/dog-breeds/smooth-fox-terrier/
+Terrier,Group,Soft Coated Wheaten Terrier,"Happy, friendly, and deeply devoted; just stubborn enough to remind you they’re terriers.",/dog-breeds/soft-coated-wheaten-terrier/
+Terrier,Group,Staffordshire Bull Terrier,"Brave, tenacious, a bit stubborn; but also gentle, playful, and clever.",/dog-breeds/staffordshire-bull-terrier/
+Terrier,Group,Welsh Terrier,"As alert and spirited as any self-respecting terrier, but a bit calmer than most.",/dog-breeds/welsh-terrier/
+Terrier,Group,West Highland White Terrier,"Happy, smart, loyal, entertaining.",/dog-breeds/west-highland-white-terrier/
+Terrier,Group,Wire Fox Terrier,"Gregarious, alert, and confident, Wires crave attention from their loved ones.",/dog-breeds/wire-fox-terrier/
+Toy,Group,Affenpinscher,"Loyal, curious, famously funny; fearless out of all proportion to their size.",/dog-breeds/affenpinscher/
+Toy,Group,Brussels Griffon,"Alert, curious, and loyal.",/dog-breeds/brussels-griffon/
+Toy,Group,Cavalier King Charles Spaniel,"Affectionate, graceful, and gentle.",/dog-breeds/cavalier-king-charles-spaniel/
+Toy,Group,Chihuahua,"Graceful, charming, and sassy.",/dog-breeds/chihuahua/
+Toy,Group,Chinese Crested,"Lively, alert, and affectionate.",/dog-breeds/chinese-crested/
+Toy,Group,English Toy Spaniel,"A true spaniel—affectionate, alert, and merry.",/dog-breeds/english-toy-spaniel/
+Toy,Group,Havanese,"Outgoing, funny, & intelligent.",/dog-breeds/havanese/
+Toy,Group,Italian Greyhound,"Sensitive and alert, playful, highly affectionate",/dog-breeds/italian-greyhound/
+Toy,Group,Japanese Chin,"A true aristocrat: charming and loving with those they favor, nobly reserved with strangers",/dog-breeds/japanese-chin/
+Toy,Group,Maltese,"Gentle, playful, affectionate; fearless in a charming toy-dog way.",/dog-breeds/maltese/
+Toy,Group,Manchester Terrier,"Spirited, bright, keenly observant; dead loyal, in an independent terrier way.",/dog-breeds/manchester-terrier/
+Toy,Group,Miniature Pinscher,"Proud, fearless, and fun-loving, Min Pins are a true “personality breed.""",/dog-breeds/miniature-pinscher/
+Toy,Group,Papillon,"Happy, alert, friendly.",/dog-breeds/papillon/
+Toy,Group,Pekingese,"Affectionate, loyal, regal in manner.",/dog-breeds/pekingese/
+Toy,Group,Pomeranian,"Lively, bold, and inquisitive—a prototypical ""personality breed"".",/dog-breeds/pomeranian/
+Toy,Group,Poodle,"Proud, active and very smart..",/dog-breeds/poodle/
+Toy,Group,Pug,"Even-tempered, charming, mischievous and loving.",/dog-breeds/pug/
+Toy,Group,Shih Tzu,"Outgoing, affectionate, playful and charming",/dog-breeds/shih-tzu/
+Toy,Group,Silky Terrier,"Friendly, vivacious, cheeky; in all ways a true terrier.",/dog-breeds/silky-terrier/
+Toy,Group,Toy Fox Terrier,"Toy Fox Terriers are outgoing and friendly, yet fiercely loyal to their families.",/dog-breeds/toy-fox-terrier/
+Toy,Group,Yorkshire Terrier,"Sprightly, tomboyish, and affectionate",/dog-breeds/yorkshire-terrier/
+Working,Group,Akita,"Dignified, courageous, and profoundly loyal.",/dog-breeds/akita/
+Working,Group,Alaskan Malamute,"Affectionate, loyal, playful but dignified.",/dog-breeds/alaskan-malamute/
+Working,Group,Anatolian Shepherd Dog,"Calm, watchful, loyal, and smart; protective and territorial.",/dog-breeds/anatolian-shepherd-dog/
+Working,Group,Bernese Mountain Dog,Good-natured and calm.,/dog-breeds/bernese-mountain-dog/
+Working,Group,Black Russian Terrier,"Smart, confident, courageous; protective of loved ones, aloof with strangers.",/dog-breeds/black-russian-terrier/
+Working,Group,Boerboel,,/dog-breeds/boerboel/
+Working,Group,Boxer,"Fun-loving, bright, active and loyal.",/dog-breeds/boxer/
+Working,Group,Bullmastiff,"Brave, affectionate, and loyal, the Bullmastiff will always have your back.",/dog-breeds/bullmastiff/
+Working,Group,Cane Corso,"Smart, trainable, and noble of bearing; assertive and confident, Corsi are peerless protectors.",/dog-breeds/cane-corso/
+Working,Group,Chinook,"Patient, smart, willing to please; a devoted family dog.",/dog-breeds/chinook/
+Working,Group,Doberman Pinscher,"Alert, fearless, loyal, and highly trainable.",/dog-breeds/doberman-pinscher/
+Working,Group,Dogue de Bordeaux,"Loyal, affectionate, and protective; courageous but not aggressive.",/dog-breeds/dogue-de-bordeaux/
+Working,Group,German Pinscher,"Intelligent, determined, assertive; playful and vivacious into old age.",/dog-breeds/german-pinscher/
+Working,Group,Giant Schnauzer,"Loyal, alert, trainable, with the stable temperament required in big dogs of great strength.",/dog-breeds/giant-schnauzer/
+Working,Group,Great Dane,"Friendly, patient, & dependable.",/dog-breeds/great-dane/
+Working,Group,Great Pyrenees,"Calm, patient, smart; strong-willed yet affectionate.",/dog-breeds/great-pyrenees/
+Working,Group,Greater Swiss Mountain Dog,"Faithful, dependable, family oriented; Swissies are famously even-tempered.",/dog-breeds/greater-swiss-mountain-dog/
+Working,Group,Komondor,"Dignified, brave, protective, steadfastly loyal",/dog-breeds/komondor/
+Working,Group,Kuvasz,"Intensely loyal, protective, utterly fearless; sweet and patient with family",/dog-breeds/kuvasz/
+Working,Group,Leonberger,"Bright, patient, loving, and family oriented",/dog-breeds/leonberger/
+Working,Group,Mastiff,"Courageous and dignified, but good-natured and docile.",/dog-breeds/mastiff/
+Working,Group,Neapolitan Mastiff,"Watchful and dignified; sweet, steady, and loyal with loved ones, calm but wary with strangers.",/dog-breeds/neapolitan-mastiff/
+Working,Group,Newfoundland,"Sweet, patient, devoted; Newfs are famously good companions",/dog-breeds/newfoundland/
+Working,Group,Portuguese Water Dog,"The PWD is an “A” student: Affectionate, athletic, and adventurous.",/dog-breeds/portuguese-water-dog/
+Working,Group,Rottweiler,Reserved with strangers and affectionate and loyal with his family.,/dog-breeds/rottweiler/
+Working,Group,Samoyed,"Gentle, adaptable, eager, friendly; conservative but never shy",/dog-breeds/samoyed/
+Working,Group,Siberian Husky,"Friendly, gentle, dignified; alert, but not aggressive.",/dog-breeds/siberian-husky/
+Working,Group,Standard Schnauzer,"Smart, fearless, sometimes willful; spirited, but ever reliable.",/dog-breeds/standard-schnauzer/
+Working,Group,Tibetan Mastiff,"Mellow and calm around the house; devoted to family, reserved and territorial with strangers.",/dog-breeds/tibetan-mastiff/
+Working,Group,St. Bernard,"Friendly, patient, outgoing; known as a great “nanny dog” for kids.",/dog-breeds/st-bernard/
