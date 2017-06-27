@@ -4,15 +4,19 @@
 
 library(ggplot2) # visualization
 library(ggthemes) # visualization
-library(dplyr) # data manipulation
 library(lubridate) # dates
 library(rpart) # rpart for imputation
-library(mice) # mice for imputation
-library(randomForest) # classification algorithm
+#library(mice) # mice for imputation
 
 library(plyr)    # data processing
-library(dplyr)   # data processing
+library(dplyr) # data manipulation
 library(stringr) # text/string processing
+
+library(randomForest) # classification algorithm
+library(LiblineaR) #logistic regression
+library(glmnet) #for regularized logistic regression
+library(ranger) #for efficient random forests
+library(xgboost) #for boosted trees
 library(caret) # predictive analytics / classification algorithms
 
 #set the working directory where your code and data is located
@@ -34,6 +38,9 @@ test$ID <- as.character(test$ID)
 
 # Combine test & training data
 full_animal_data_set <- bind_rows(train, test)
+
+outcomes <- train %>% group_by(AnimalType,OutcomeType)%>% summarise()
+head(outcomes)
 
 #profile data
 table(full_animal_data_set$OutcomeType)
@@ -172,12 +179,12 @@ full_animal_data_set$Sex <- ifelse(grepl('Male', full_animal_data_set$SexuponOut
 
 
 #Check if castration is a significant factor in determining shelter animal outcome
-is_not_castrated <- full_animal_data_set[1:26729, ] %>%
+animals_grouped_by_castration <- full_animal_data_set[1:26729, ] %>%
   group_by(species, is_not_castrated, OutcomeType) %>%
   summarise(num_animals = n())
 
 # Plot
-ggplot(is_not_castrated, aes(x = is_not_castrated, y = num_animals, fill = OutcomeType)) +
+ggplot(animals_grouped_by_castration, aes(x = is_not_castrated, y = num_animals, fill = OutcomeType)) +
   geom_bar(stat = 'identity', position = 'fill', colour = 'black') +
   facet_wrap(~species) +
   coord_flip() +
@@ -247,8 +254,8 @@ system.time(rf_mod <- randomForest(OutcomeType ~ species+age_in_days+is_not_cast
                         data = train,  ntree = 100,  importance = TRUE))
 
 
-library(VGAM)
-model_logistic_regression <- vglm(OutcomeType ~ species+age_in_days+is_not_castrated+has_given_name+Hour+Weekday+TimeofDay+simplified_colour+IsMixBreed+Sex+Month,family=multinomial,data=train)
+#library(VGAM)
+#model_logistic_regression <- vglm(OutcomeType ~ species+age_in_days+is_not_castrated+has_given_name+Hour+Weekday+TimeofDay+simplified_colour+IsMixBreed+Sex+Month,family=multinomial,data=train)
 print(now())
 cat(" finished fiting the model using training data set")
 
@@ -381,4 +388,72 @@ colnames(test_preds_frame) <- levels(targets)
 
 submission <- cbind(data.frame(ID=test_ID), test_preds_frame)
 
-write.csv(submission , "shelter_animals_submission.csv", row.names=FALSE)
+write.csv(submission , "shelter_animals_submission_xgboost.csv", row.names=FALSE)
+
+#~~~~~~~~~~~~~~~~
+#Random Forests:
+#~~~~~~~~~~~~~~~~
+library(ranger)
+model_rf <- ranger(OutcomeType ~ species+age_in_days+is_not_castrated+has_given_name+Hour+Weekday+TimeofDay+simplified_colour+IsMixBreed+Sex+Month,
+                   data = train, mtry = 4,
+                   num.trees = 800, probability = TRUE,
+                   importance = "impurity", write.forest = TRUE,
+                   seed = 3231L)
+#performs much better if we use probability trees. + we probabilities are better
+#for kaggle since the metric is multi logloss.
+
+model_rf$prediction.error #27.6% OOB error for the probability tree - seems weird.
+
+#variable importance:
+model_rf$variable.importance %>% sort(decreasing = TRUE) %>%
+  barplot(las = 1, main = "Variable Importance for Random Forest")
+
+predict(model_rf, test) ->rf_pred
+
+rf_pred <- rf_pred$predictions
+
+
+#~~~~~~~~~
+#xgboost:
+#~~~~~~~~~
+design_matrix <- sparse.model.matrix( ~   DateTime +
+                                        AnimalType +
+                                        SexuponOutcome +
+                                        age +
+                                        less_month +
+                                        AgeuponOutcome +
+                                        weekend +
+                                        hourz +
+                                        minute0 + #new
+                                        minute +
+                                        n + #LEAK
+                                        time + #new
+                                        miniature + #new
+                                        agressive + #new
+                                        breed1 +
+                                        namelength +
+                                        named +
+                                        wday +
+                                        mix, 
+                                      data = data)[,-1]
+
+design_matrix_train <- design_matrix[1:dim(train)[1],]
+design_matrix_test <- design_matrix[-(1:dim(train)[1]),]
+
+
+nround = 400
+cv_xgb <- xgb.cv(data = design_matrix_train,label = new_y, 
+                 nround = nround,
+                 eta = 0.05,
+                 objective = "multi:softprob",
+                 eval_metric = "mlogloss",
+                 #eval_metric = "merror",
+                 num_class = 5,
+                 max.depth = 8,
+                 nfold = 5,
+                 min_child_weight = 1,
+                 subsample=0.75, 
+                 colsample_bytree=0.85,
+                 gamma = 0.1)
+
+
