@@ -41,6 +41,9 @@ S4. Submit or share your results.
     animal_type: cat or dog
     age: in days
 
+	Importance:
+
+	
 4.Modeling:
 - Build the model
 	randomForest
